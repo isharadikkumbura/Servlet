@@ -1,0 +1,29 @@
+.modal-open .modal,
+.btn:focus{
+    outline: none !important;
+}
+#me{
+	background-color:	 #000033;
+	color:#fff;
+}
+a:focus { 
+    outline: none !important;
+ } 
+ body { 
+	padding-top: 78px; 
+
+ }
+ 
+ .mainimg{
+	 width:100%;
+	 max-height:500px;
+	 opacity:0.9;
+ }
+ 
+ p{
+	 font-family: 'Open Sans', sans-serif;
+ }
+ 
+ #adddiv{
+     display:none;
+ }
